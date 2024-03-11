@@ -1,4 +1,6 @@
-Ekran çıktısı
+
+
+
 ![Ekran çıktısı](https://github.com/Ardaozhan/arda-ozhan-odevv2/assets/162153482/83826198-7f0f-4166-a1d4-6cbd4e42d339)
 
 
